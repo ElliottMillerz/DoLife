@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		797BFC712757CEE20097C43E /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797BFC702757CEE20097C43E /* BaseViewController.swift */; };
 		79E45222274FCC6800CD5E35 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E45221274FCC6800CD5E35 /* AppDelegate.swift */; };
 		79E45224274FCC6800CD5E35 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E45223274FCC6800CD5E35 /* SceneDelegate.swift */; };
 		79E45226274FCC6800CD5E35 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E45225274FCC6800CD5E35 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		797BFC702757CEE20097C43E /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = SOURCE_ROOT; };
 		79E4521E274FCC6800CD5E35 /* DoLife.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DoLife.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79E45221274FCC6800CD5E35 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		79E45223274FCC6800CD5E35 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 		79E45220274FCC6800CD5E35 /* DoLife */ = {
 			isa = PBXGroup;
 			children = (
+				797BFC702757CEE20097C43E /* BaseViewController.swift */,
 				79E45221274FCC6800CD5E35 /* AppDelegate.swift */,
 				79E45223274FCC6800CD5E35 /* SceneDelegate.swift */,
 				79E45225274FCC6800CD5E35 /* ViewController.swift */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				79E45226274FCC6800CD5E35 /* ViewController.swift in Sources */,
+				797BFC712757CEE20097C43E /* BaseViewController.swift in Sources */,
 				79E45222274FCC6800CD5E35 /* AppDelegate.swift in Sources */,
 				79E45224274FCC6800CD5E35 /* SceneDelegate.swift in Sources */,
 			);
